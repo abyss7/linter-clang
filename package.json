@@ -25,7 +25,7 @@
   "dependencies": {
     "atom-linter": "^8.0.0",
     "atom-package-deps": "^4.0.1",
-    "clang-flags": "^0.3.0"
+    "clang-flags": "git+https://github.com/abyss7/clang-flags.git"
   },
   "devDependencies": {
     "eslint": "^3.13.0",
