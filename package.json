@@ -32,7 +32,7 @@
     "eslint-config-airbnb-base": "^11.0.1",
     "eslint-plugin-import": "^2.2.0"
   },
-  "package-deps": [],
+  "package-deps": [ "linter" ],
   "eslintConfig": {
     "extends": "airbnb-base",
     "rules": {
